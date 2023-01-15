@@ -404,6 +404,11 @@
     .location iframe{
         width: 100%;
     }
+    .contect-form form input{
+        max-width: 100%;
+        border: none;
+        outline: none;
+    }
     .company-logo{
         flex-direction: column;
         gap: 40px;
