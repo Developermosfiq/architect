@@ -404,8 +404,11 @@
     .location iframe{
         width: 100%;
     }
-    .contect-form form input{
+    .contect-form form {
         max-width: 100%;
+    }
+    .contect-form form input{
+        max-width: 87%;
         border: none;
         outline: none;
     }
