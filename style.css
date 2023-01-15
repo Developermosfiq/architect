@@ -403,6 +403,10 @@
     .location iframe{
         width: 100%;
     }
+    .input{
+        width: 100%;
+        margin-bottom: 20px;
+    }
     .company-logo{
         flex-direction: column;
         gap: 40px;
