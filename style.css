@@ -309,7 +309,7 @@
     margin-bottom: 24px;
 }
 .contect-form form input{
-    width: 100%;
+    width: 80%;
     padding: 17px;
     border: none;
     outline: none;
@@ -405,7 +405,7 @@
         width: 100%;
     }
     .contect-form form {
-        max-width: 100%;
+       
     }
     .contect-form form input{
         max-width: 87%;
